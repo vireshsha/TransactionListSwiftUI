@@ -2,7 +2,11 @@
 iOS app that displays a list of transactions with detailed views.  
 Built using **SwiftUI** and **MVVM** for clean architecture and scalability.
 
----
+## Environment
+- **Xcode:** 26.3  
+- **Swift:** 6  
+- **Minimum Deployment Target:** iOS 16.2  
+- **Architecture:** MVVM
 
 ## Features
 - **Programmatic UI:** Views like `TransactionList`, `TransactionRowView`, `TransactionDetailView` are fully built programmatically.  
