@@ -34,7 +34,7 @@ Built using **SwiftUI** and **MVVM** for clean architecture and scalability.
 
 ## How to Run
 1. Open the project in Xcode 15+  
-2. Run the app through the target (`TakeHomeAssignment`)  
+2. Run the **App** through the target (`TakeHomeAssignment`)  
 3. Run **Unit Tests**: `Product > Test` or `Cmd+U`  
 4. Run **UI Tests**: `Product > Test` or `Cmd+U` (ensure simulator has access to `transaction-list.json` in main bundle)  
 
