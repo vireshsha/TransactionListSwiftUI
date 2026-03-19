@@ -4,7 +4,7 @@ Built using **SwiftUI** and **MVVM** for clean architecture and scalability.
 
 ## Environment
 - **Xcode:** 26.3  
-- **Swift:** 6  
+- **Swift:** 5  
 - **Minimum Deployment Target:** iOS 16.2  
 - **Architecture:** MVVM
 
